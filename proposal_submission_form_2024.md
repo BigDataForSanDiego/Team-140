@@ -45,4 +45,4 @@
 #### Team Members `` 
 - Han Hoang (gihoang@ucsd.edu)
 - Derek Zhu (daz005@ucsd.edu)
-
+- Adam Bailey (a.h.bailey2020@gmail.com)
